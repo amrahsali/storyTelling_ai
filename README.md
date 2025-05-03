@@ -1,4 +1,4 @@
-<img width="1440" alt="Screenshot 2025-05-02 at 21 00 31" src="https://github.com/user-attachments/assets/3d84d2aa-e7d5-4aa8-9718-91d924b9f00d" /># storyTelling_ai
+<img width="1440" alt="Screenshot 2025-05-03 at 12 35 52" src="https://github.com/user-attachments/assets/9c8c36e1-ce8b-4b38-9b71-83c6272b0cf1" />
 
 # Story Teller App
 
